@@ -1,0 +1,119 @@
+defaultTags:
+  - ddi
+  - cs
+  - aops
+
+education:
+  - location: Texas Christian University, Fort Worth
+    date: ""
+    url: "B.S. in Computer Science & Mathematics"
+    info:
+      - "**GPA: 3.75/4.0**"
+      - "**Deans Scholarship, Dean's List**"
+
+gapYear:
+  - location: Bank Management System
+    url: Java, MySQL, SwingUI, Spring Boot
+    date: "Feb 2024 - Mar 2024"
+    tags: [ cs ]
+    info:
+      - Designed intuitive Swing UI for efficient administration.
+      - Implemented MySQL for reliable data storage, using advanced database administration procedures to ensure the confidentiality of data.
+ 
+  - location: Portfolio Website
+    url: React, ReactJS, NextJS, Chakra-UI, CSS, LaTeX
+    date: Jan 2024 - Present
+    tags: [ math, aops ]
+    info:
+       - Implemented responsive design principles to ensure optimal viewing experience across various devices, enhancing accessibility and user engagement.
+       - Integrated ReactJS for seamless navigation and interactive user interface elements.
+       
+  - location: ARM Machines Instructions
+    url: Java, Git, SwingUI, VS Code
+    date: Nov 2023
+    tags: [ math, aops ]
+    info:
+       - Developed a JAVA application featuring an intuitive Graphical User Interface(GUI) to facilitate the encoding and decoding of sixteen ARM7 instructions, accommodating them across a bank of sixteen registers.
+       - Proficiently demonstrated competence in Java programming, including GUI design and event-driven programming, while successfully executing the project.           
+
+  - location: Email Administration Toolkit
+    url: Java, MySQL
+    date: Jul 2023
+    tags: [ math, aops ]
+    info:
+       - Developed an Email Application tailored for IT Support Administrators, automating the creation of email accounts for new hires and enhancing organizational efficiency.
+       - Implemented a backend system with MySQL for user data administration.
+
+highSchool:
+  - location: United Nations Human Rights Council
+    url: Outstanding Delegate
+    date: Sept 2021
+    tags: [ cs ]
+    info:
+      - Conducted in-depth research and analysis on human rights crises in the Middle East, contributing to informed discussions and resolutions within the UNHRC.
+      - Engaged in diplomatic negotiations and proposed effective solutions aimed at addressing human rights violations.
+      - Promoted conflict resolution strategies within the M-UNHRC framework, showcasing strong communication, negotiation, and leadership skills.
+  - location: Xavier Academy
+    url: Social Welfare Coordinator
+    date: Sep 2019 - Aug 2022
+    tags: [ cs ]
+    info:
+      - Engaged with children in orphanages, offering emotional support, educational assistance, and recreational activities to foster a nurturing environment and promote their holistic development.
+      - Supported senior citizens in old-aged homes through companionship and recreational activities, enhancing their well-being.
+projects:
+  - location: Robotics and Artificial Intelligence Club
+    date: Dec 2023 - Present
+  - location: CodePath at TCU
+    date: Jan 2024 - Present
+  - location: Computer Science Society
+    date: Jan 2024 - Present
+  - location: South Asian Inter-Cultural Association
+    date: Feb 2024 - Present
+
+awards:
+  - name: US Congressional App Challenge Winners
+    tags: [ cs ]
+  - name: AMC 10/12 Honor Roll (2018, 2019, 2020, 2021)
+    tags: [ math ]
+  - name: Science Bowl State Champion (2021)
+    tags: [ misc ]
+  - name: SDSU Programming Design Contest Winner (2020)
+    tags: [ high school ]
+  - name: National Merit Semifinalist
+    tags: [ academia ]
+  - name: US Presidential Scholar Candidate
+    tags: [ academia ]
+  - name: USACO Gold Division
+    tags: [ cs ]
+  - name: USAMTS Honorable Mention (2017)
+    tags: [ math ]
+  - name: Science Olympiad State Champion (2021)
+    tags: [ misc ]
+
+languages:
+  - name: Java
+    tags: [ cs ]
+  - name: C/C++
+    tags: [ cs ]
+  - name: Python
+    tags: [ cs ]
+  - name: JavaScript
+    tags: [ cs ]
+  - name: Rest API
+    tags: [ cs ]
+  - name: React, React Native
+    tags: [ cs ]
+  - name: NodeJS
+    tags: [ cs ]
+  - name: LaTeX
+    tags: [ math ]
+  - name: HTML/CSS
+    tags: [ cs ]
+
+technologies:
+  - name: MySQL, Firebase/Firestore
+    tags: [ cs ]
+  - name: Docker
+    tags: [ cs ]
+  - name: Git/Github
+    tags: [ cs ]
