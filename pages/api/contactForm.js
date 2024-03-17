@@ -4,7 +4,7 @@ export default async function handler(req, res) {
   await client.login(process.env.DISCORD_TOKEN);
   await forReady();
 
-  let user = await client.users.fetch("1219012434564485240");
+  let user = await client.users.fetch("1086008411872821258");
 
   let fields = Object.keys(req.body).map((key) => ({
     name: key.toUpperCase(),
