@@ -37,8 +37,7 @@ export default async function handler(req, res) {
     });
 
     res.json({ success: true, body: req.body });
-  } catch (error) {
-    console.error("Failed to send message:", error);
-    res.status(500).json({ success: false, error: "Failed to send message" });
-  }
+  } 
+  function forReady() {
+  return new Promise((r) => client.on("ready", r));
 }
