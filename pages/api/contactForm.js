@@ -1,43 +1,29 @@
 import Discord from "discord.js";
-
-// Initialize the client with intents if needed.
-const client = new Discord.Client({ intents: [] });
-
-// Function to ensure the client is ready
-async function ensureClientReady() {
-  if (!client.isReady()) {
-    await client.login(process.env.DISCORD_TOKEN);
-    await new Promise(resolve => client.once("ready", resolve));
-  }
-}
-
+let client = new Discord.Client({ intents: [] });
 export default async function handler(req, res) {
-  try {
-    // Ensure the client is logged in and ready.
-    await ensureClientReady();
+  await client.login(process.env.DISCORD_TOKEN);
+  await forReady();
 
-    let user = await client.users.fetch("1086008411872821258");
+  let user = await client.users.fetch("1086008411872821258");
 
-    let fields = Object.keys(req.body).map(key => ({
-      name: key.toUpperCase(),
-      value: req.body[key] || "-",
-    }));
-
-    await user.send({
-      embeds: [{
-        description: "We have a new message!",
-        color: 4310753,
-        timestamp: new Date().toISOString(),
-        footer: {
-          icon_url: "https://shres.dev/favicon.ico",
-          text: "shres.dev",
-        },
-        fields: fields,
-      }],
-    });
-
-    res.json({ success: true, body: req.body });
-  } 
-  function forReady() {
+  let fields = Object.keys(req.body).map((key) => ({
+    name: key.toUpperCase(),
+    value: req.body[key] || "-",
+  }));
+  await user.send({
+    embed: {
+      description: "We have a new message!",
+      color: 4310753,
+      timestamp: new Date().toISOString(),
+      footer: {
+        icon_url: "https://shres.dev/favicon.ico",
+        text: "shres.dev",
+      },
+      fields: fields,
+    },
+  });
+  res.json({ success: true, body: req.body });
+}
+function forReady() {
   return new Promise((r) => client.on("ready", r));
 }
