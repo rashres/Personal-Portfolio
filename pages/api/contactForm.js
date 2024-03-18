@@ -16,8 +16,8 @@ export default async function handler(req, res) {
       color: 4310753,
       timestamp: new Date().toISOString(),
       footer: {
-        icon_url: "https://yok.dev/favicon.ico",
-        text: "yok.dev",
+        icon_url: "https://shres.dev/favicon.ico",
+        text: "shres.dev",
       },
       fields: fields,
     },
