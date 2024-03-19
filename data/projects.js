@@ -5,7 +5,7 @@ const projectSections = [
       details: "Completed projects so far :) ",
       data: [
         {
-          tags: ["Nextjs", "React", "chakra-ui", "CSS", "LaTeX"],
+          tags: ["Nextjs", "React", "chakra-ui", "AWS", "CSS", "LaTeX"],
           bgImage: "https://necesimgs.s3.amazonaws.com/og_image_index.png",
           description: `Spent the last few months creating a website that serves as a comprehensive directory for all the projects I've completed so far, as well as hosting my resume. The resume itself is created using a LaTeX template that I designed.`,
           title: "Portfolio",
