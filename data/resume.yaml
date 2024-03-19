@@ -21,7 +21,7 @@ gapYear:
       - Implemented MySQL for reliable data storage, using advanced database administration procedures to ensure the confidentiality of data.
  
   - location: Portfolio Website
-    url: React, ReactJS, NextJS, Chakra-UI, CSS, LaTeX
+    url: React, ReactJS, NextJS, Chakra-UI, AWS, CSS, LaTeX
     date: Jan 2024 - Present
     tags: [ math, aops ]
     info:
