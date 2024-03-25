@@ -140,7 +140,7 @@ import {
             </Link>
           </Flex>
           <Text textAlign={"center"} color={"gray.900"} fontSize={"sm"}>
-            Portfolio made by Rahul Shrestha | <Link href={"https://github.com/rashres"}>Github | Inspired by Samyok Nepal</Link>
+            Portfolio made by Rahul Shrestha | <Link href={"https://github.com/rashres"}>Github | Inspired by Samyok</Link>
           </Text>
         </Flex>
       </Hide>
