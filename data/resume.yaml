@@ -14,7 +14,6 @@ education:
 gapYear:
   - location: Bank Management System
     url: Java, MySQL, SwingUI, Spring Boot
-    date: "Feb 2024 - Mar 2024"
     tags: [ cs ]
     info:
       - Designed intuitive Swing UI for efficient administration.
@@ -22,7 +21,6 @@ gapYear:
  
   - location: Portfolio Website
     url: React, ReactJS, NextJS, Chakra-UI, AWS, CSS, LaTeX
-    date: Jan 2024 - Present
     tags: [ math, aops ]
     info:
        - Implemented responsive design principles to ensure optimal viewing experience across various devices, enhancing accessibility and user engagement.
@@ -30,7 +28,6 @@ gapYear:
        
   - location: ARM Machines Instructions
     url: Java, Git, SwingUI, VS Code
-    date: Nov 2023
     tags: [ math, aops ]
     info:
        - Developed a JAVA application featuring an intuitive Graphical User Interface(GUI) to facilitate the encoding and decoding of sixteen ARM7 instructions, accommodating them across a bank of sixteen registers.
@@ -38,7 +35,6 @@ gapYear:
 
   - location: Email Administration Toolkit
     url: Java, MySQL
-    date: Jul 2023
     tags: [ math, aops ]
     info:
        - Developed an Email Application tailored for IT Support Administrators, automating the creation of email accounts for new hires and enhancing organizational efficiency.
