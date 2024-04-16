@@ -9,7 +9,6 @@ const projectSections = [
           bgImage: "https://necesimgs.s3.amazonaws.com/og_image_index.png",
           description: `Spent the last few months creating a website that serves as a comprehensive directory for all the projects I've completed so far, as well as hosting my resume. The resume itself is created using a LaTeX template that I designed.`,
           title: "Portfolio",
-          subtext: "Jan 2024 - Present",
           buttons: [
             {
               href: "https://github.com/rashres",
