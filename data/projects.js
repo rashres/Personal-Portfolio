@@ -23,7 +23,6 @@ const projectSections = [
   
                 Built with Java and MySQL, this system provides a user-friendly platform for managing accounts, transactions, and customer data, utilizing Spring Framework and Hibernate for efficient ORM. JSON/XML facilitates seamless data exchange, while Git, Maven, and Gradle streamline collaborative development and project management.`,
           title: "Bank Management System",
-          subtext: "Feb 2024 - Mar 2024",
           buttons: [
             {
               href: "https://github.com/rashres/Bank-Management-System",
@@ -34,7 +33,6 @@ const projectSections = [
         {
           tags: ["Java", "Git", "SwingUI"],
           title: "ARM Machines Instructions",
-          subtext: "Nov 2023",
           bgImage:
           "https://necesimgs.s3.amazonaws.com/abc.png",
           description: `An engaging university project involving complex Java-based GUI development.
@@ -50,7 +48,6 @@ const projectSections = [
         {
           tags: ["Java", "MySQL"],
           title: "Email Administration Toolkit",
-          subtext: "Jul 2023",
           bgImage:
           "https://necesimgs.s3.amazonaws.com/mitt.jpeg",
           description: `Developed a Mail Administration project to reinforce OOP principles and other Java concepts, integrating MySQL for data management.`,
@@ -64,7 +61,6 @@ const projectSections = [
         {
           tags: ["Java", "SwingUI"],
           title: "Minesweeper",
-          subtext: "Jul 2023",
           bgImage:
           "https://necesimgs.s3.amazonaws.com/mns.png",
           description: `A personal initiative to improve my skills in board representation, user interaction, and game logic through a Java-based side project.`,
