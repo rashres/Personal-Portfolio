@@ -33,14 +33,14 @@ gapYear:
        - Developed a JAVA application featuring an intuitive Graphical User Interface(GUI) to facilitate the encoding and decoding of sixteen ARM7 instructions, accommodating them across a bank of sixteen registers.
        - Proficiently demonstrated competence in Java programming, including GUI design and event-driven programming, while successfully executing the project.           
 
-  - location: Email Administration Toolkit
-    url: Java, MySQL
-    tags: [ math, aops ]
-    info:
-       - Developed an Email Application tailored for IT Support Administrators, automating the creation of email accounts for new hires and enhancing organizational efficiency.
-       - Implemented a backend system with MySQL for user data administration.
-
 highSchool:
+  -location: Texas Christian University
+    url: Student Assistant
+    date: April 2024 - Present
+    tags: [ cs ]
+    info:
+      - Conducted comprehensive research using online resources and established databases, ensuring thorough data collection and entry to support academic and administrative projects.
+      - Maintained strict confidentiality with sensitive data and efficiently managed supply logistics to support office operations.  
   - location: United Nations Human Rights Council
     url: Outstanding Delegate
     date: Sept 2021
