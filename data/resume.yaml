@@ -43,13 +43,13 @@ gapYear:
   
 
 highSchool:
-  -location: Texas Christian University
+  - location: Texas Christian University
     url: Student Assistant
     date: April 2024 - Present
     tags: [ cs ]
     info:
-      - Conducted comprehensive research using online resources and established databases, ensuring thorough data collection and entry to support academic and administrative projects.
-      - Maintained strict confidentiality with sensitive data and efficiently managed supply logistics to support office operations.  
+       - Conducting comprehensive research using online resources and established databases, ensuring thorough data collection and entry to support academic and administrative projects.
+       - Maintaining strict confidentiality while managing sensitive information, and proficiently handled logistical tasks including ordering supplies to support office operations.
   - location: United Nations Human Rights Council
     url: Outstanding Delegate
     date: Sept 2021
@@ -58,13 +58,7 @@ highSchool:
       - Conducted in-depth research and analysis on human rights crises in the Middle East, contributing to informed discussions and resolutions within the UNHRC.
       - Engaged in diplomatic negotiations and proposed effective solutions aimed at addressing human rights violations.
       - Promoted conflict resolution strategies within the M-UNHRC framework, showcasing strong communication, negotiation, and leadership skills.
-  - location: Xavier Academy
-    url: Social Welfare Coordinator
-    date: 2018 - 2020
-    tags: [ cs ]
-    info:
-      - Engaged with children in orphanages, offering emotional support, educational assistance, and recreational activities to foster a nurturing environment and promote their holistic development.
-      - Supported senior citizens in old-aged homes through companionship and recreational activities, enhancing their well-being.
+
 projects:
   - location: Robotics and Artificial Intelligence Club
     date: Dec 2023 - Present
