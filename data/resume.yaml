@@ -8,12 +8,13 @@ education:
     date: ""
     url: "B.S. in Computer Science & Mathematics"
     info:
-      - "**GPA: 3.63/4.0**"
+      - "**GPA: 3.75/4.0**"
       - "**Deans Scholarship, Dean's List**"
 
 gapYear:
   - location: Bank Management System
     url: Java, MySQL, SwingUI, Spring Boot
+    date: "Feb 2024 - Mar 2024"
     tags: [ cs ]
     info:
       - Designed intuitive Swing UI for efficient administration.
@@ -21,6 +22,7 @@ gapYear:
  
   - location: Portfolio Website
     url: React, ReactJS, NextJS, Chakra-UI, CSS, LaTeX
+    date: Jan 2024 - Present
     tags: [ math, aops ]
     info:
        - Implemented responsive design principles to ensure optimal viewing experience across various devices, enhancing accessibility and user engagement.
@@ -28,6 +30,7 @@ gapYear:
        
   - location: ARM Machines Instructions
     url: Java, Git, SwingUI, VS Code
+    date: Nov 2023
     tags: [ math, aops ]
     info:
        - Developed a JAVA application featuring an intuitive Graphical User Interface(GUI) to facilitate the encoding and decoding of sixteen ARM7 instructions, accommodating them across a bank of sixteen registers.
@@ -35,35 +38,28 @@ gapYear:
 
   - location: Email Administration Toolkit
     url: Java, MySQL
+    date: Jul 2023
     tags: [ math, aops ]
     info:
        - Developed an Email Application tailored for IT Support Administrators, automating the creation of email accounts for new hires and enhancing organizational efficiency.
        - Implemented a backend system with MySQL for user data administration.
 
 highSchool:
- - location: Texas Christian University
-    url: Teaching Assistant
-    date: Sept 2024 - Present
-    tags: [ cs ]
-    info:
-      - Grader for Cloud Computing course with a focus on AWS Cloud Foundations.
-      - Providing detailed evaluations and feedback on student assignments covering cloud concepts, AWS core services, security, architecture, pricing, and support. 
-      - Assisting classes of 30-50 students answering questions, guiding students, and helping debug.
- - location: TCU University Advancement
-    url: Research Assistant
-    date: Apr 2024 - Present
-    tags: [ cs ]
-    info:
-      - Grader for Cloud Computing course with a focus on AWS Cloud Foundations.
-      - Providing detailed evaluations and feedback on student assignments covering cloud concepts, AWS core services, security, architecture, pricing, and support. 
-      - Assisting classes of 30-50 students answering questions, guiding students, and helping debug.    
   - location: United Nations Human Rights Council
     url: Outstanding Delegate
     date: Sept 2021
     tags: [ cs ]
     info:
-      - Conducting comprehensive research using online resources and established databases, ensuring thorough data collection and entry to support academic and administrative projects.
-      - Maintaining strict confidentiality with sensitive data and efficiently managing data to support office operations.
+      - Conducted in-depth research and analysis on human rights crises in the Middle East, contributing to informed discussions and resolutions within the UNHRC.
+      - Engaged in diplomatic negotiations and proposed effective solutions aimed at addressing human rights violations.
+      - Promoted conflict resolution strategies within the M-UNHRC framework, showcasing strong communication, negotiation, and leadership skills.
+  - location: Xavier Academy
+    url: Social Welfare Coordinator
+    date: Sep 2019 - Aug 2022
+    tags: [ cs ]
+    info:
+      - Engaged with children in orphanages, offering emotional support, educational assistance, and recreational activities to foster a nurturing environment and promote their holistic development.
+      - Supported senior citizens in old-aged homes through companionship and recreational activities, enhancing their well-being.
 projects:
   - location: Robotics and Artificial Intelligence Club
     date: Dec 2023 - Present
@@ -95,8 +91,6 @@ awards:
     tags: [ misc ]
 
 languages:
-  - name: C#
-    tags: [ cs ]
   - name: Java
     tags: [ cs ]
   - name: C/C++
@@ -105,7 +99,9 @@ languages:
     tags: [ cs ]
   - name: JavaScript
     tags: [ cs ]
-  - name: React
+  - name: Rest API
+    tags: [ cs ]
+  - name: React, React Native
     tags: [ cs ]
   - name: NodeJS
     tags: [ cs ]
@@ -115,9 +111,10 @@ languages:
     tags: [ cs ]
 
 technologies:
-  - name: .NET, MySQL, MSSQL
+  - name: MySQL, Firebase/Firestore
     tags: [ cs ]
-  - name: Docker, Google Cloud Platform
+  - name: Docker
     tags: [ cs ]
-  - name: MongoDB, Git/Github
+  - name: Git/Github
     tags: [ cs ]
+
