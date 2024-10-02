@@ -11,7 +11,7 @@ const projectSections = [
           title: "Personal Task Manager",
           buttons: [
             {
-              href: "https://github.com/rashres",
+              href: "https://github.com/rashres/Personal-Task-Manager",
               type: "github",
             },
           ],
@@ -23,7 +23,7 @@ const projectSections = [
           title: "Portfolio",
           buttons: [
             {
-              href: "https://github.com/rashres",
+              href: "https://github.com/rashres/Personal-Portfolio",
               type: "github",
             },
           ],
