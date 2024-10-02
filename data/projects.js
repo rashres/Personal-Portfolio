@@ -5,7 +5,19 @@ const projectSections = [
       details: "Completed projects so far :) ",
       data: [
         {
-          tags: ["Nextjs", "React", "chakra-ui", "AWS", "CSS", "LaTeX"],
+          tags: ["C#", ".NET", "MySQL", "Git", "Trello", "Zapier"],
+          bgImage: "https://necesimgs.s3.amazonaws.com/PTMS.png",
+          description: `Developed a Personal Task Management System using C#, integrated with Trello API and MySQL for task automation and tracking, with Zapier-based task creation, error handling, and version control using Git.`,
+          title: "Personal Task Manager",
+          buttons: [
+            {
+              href: "https://github.com/rashres",
+              type: "github",
+            },
+          ],
+        },
+        {
+          tags: ["Nextjs", "React", "chakra-ui", "CSS", "LaTeX"],
           bgImage: "https://necesimgs.s3.amazonaws.com/og_image_index.png",
           description: `Spent the last few months creating a website that serves as a comprehensive directory for all the projects I've completed so far, as well as hosting my resume. The resume itself is created using a LaTeX template that I designed.`,
           title: "Portfolio",
