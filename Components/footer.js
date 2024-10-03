@@ -130,11 +130,11 @@ import {
                 </chakra.p>
               </Flex>
             </Link>
-            <Link m={2} href={"mailto:rashres027@gmail.com"} target={"_blank"}>
+            <Link m={2} href={"mailto:ray.shres1@gmail.com"} target={"_blank"}>
               <Flex m={2} alignItems={"center"}>
                 <HiMail size={"2em"} />
                 <chakra.p ml={2} fontFamily={"Fira Code"}>
-                  ra@shres.dev
+                  ray.shres1@gmail.com
                 </chakra.p>
               </Flex>
             </Link>
