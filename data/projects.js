@@ -4,6 +4,18 @@ const projectSections = [
       title: "Projects",
       details: "Completed projects so far :) ",
       data: [
+          {
+          tags: ["ReactJS", "ChartJS", "MySQL", "Git", "Crypto"],
+          bgImage: "https://necesimgs.s3.us-east-1.amazonaws.com/CyptoAxis.png",
+          description: `Developed a React.js-based crypto tracker integrating CoinGecko API for real-time data, leveraging Chart.js for price visualization and custom algorithms for simultaneous coin comparisons, and built a dedicated watchlist tab to track favorite cryptocurrencies using Git/GitHub for collaboration and ongoing improvements.`,
+          title: "The CryptoAxis",
+          buttons: [
+            {
+              href: "https://github.com/rashres/The-CryptoAxis",
+              type: "github",
+            },
+          ],
+        },
         {
           tags: ["C#", ".NET", "MySQL", "Git", "Trello", "Zapier"],
           bgImage: "https://necesimgs.s3.amazonaws.com/PTMS.png",
