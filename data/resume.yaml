@@ -12,6 +12,14 @@ education:
       - "**Deans Scholarship, Dean's List**"
 
 gapYear:
+  - location: The CryptoAxis
+    url: ReactJS, ChartJS, MySQL, Git/Github, CryptoAPI
+   # date: Nov 2023
+    tags: [ math, aops ]
+    info:
+       - Developed a React.js-based crypto tracker that integrates with the CoinGecko API to fetch real-time data, displaying price changes using Chart.js and custom algorithms for simultaneous coin comparisons.
+       - Built a special watchlist tab to keep track of favorite cryptocurrencies using Git/GitHub for version control to allow collaboration and ongoing improvements for future updates. 
+       
   - location: Personal Task Manager
     url: C#, .NET, MySQL, Zapier, Trello
    # date: Jul 2023 
@@ -34,15 +42,7 @@ gapYear:
     tags: [ math, aops ]
     info:
        - Implemented responsive design principles to ensure optimal viewing experience across various devices, enhancing accessibility and user engagement.
-       - Integrated ReactJS for seamless navigation and interactive user interface elements.
-       
-  - location: ARM Machines Instructions
-    url: Java, Git, SwingUI, VS Code
-   # date: Nov 2023
-    tags: [ math, aops ]
-    info:
-       - Developed a JAVA application featuring an intuitive Graphical User Interface(GUI) to facilitate the encoding and decoding of sixteen ARM7 instructions, accommodating them across a bank of sixteen registers.
-       - Proficiently demonstrated competence in Java programming, including GUI design and event-driven programming, while successfully executing the project.           
+       - Integrated ReactJS for seamless navigation and interactive user interface elements.          
 
 highSchool:
   - location: TCU College of Science and Engineering
