@@ -45,6 +45,12 @@ gapYear:
        - Integrated ReactJS for seamless navigation and interactive user interface elements.          
 
 highSchool:
+  - location: Fidelity Investments
+    url: Software Engineer Intern
+    date: June 2025 - Aug 2025
+    tags: [ cs ]
+    info:
+      - SWE Intern Progran starting June 2025
   - location: TCU College of Science and Engineering
     url: AI Researcher
     date: Jan 2025 - Present
